@@ -8,6 +8,7 @@ A collection of beginner-friendly and intermediate Python exercises designed to 
 
 ### **1. calculator.py**
 A simple arithmetic calculator that performs basic operations (addition, subtraction, multiplication, division) based on user input.
+
 <img width="262" height="190" alt="image" src="https://github.com/user-attachments/assets/62d843b1-7eec-4bfa-91a9-8060eefc429a" />
 
 
